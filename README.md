@@ -123,5 +123,4 @@ and generates the corresponding performance/convergence plots.
 ## Author
 
 Aleyna Demirci
-Aeronautical and Space Engineering — Adana Alparslan Türkeş Science and
-Technology University
+Aeronautical and Space Engineer
